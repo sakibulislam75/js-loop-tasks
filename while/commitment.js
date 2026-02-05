@@ -6,6 +6,6 @@
 
 let days = 1;
 while (days <= 60) {
-    console.log("I will invest at least 6 hrs every single day for next 60 days!" + days);
+    console.log(`day-${days} I will invest at least 6 hrs every single day for next 60 days!`);
     days++;
 }
