@@ -24,7 +24,6 @@ Find all the even numbers from 78 to 98.
 for (let k = 78; k <= 98; k += 2) {
     console.log("Even No:", k);
 }
-
 //----- Another way using if else-----//
 for (let k1 = 78; k1 <= 98; k1++) {
     if (k1 % 2 == 0) {
